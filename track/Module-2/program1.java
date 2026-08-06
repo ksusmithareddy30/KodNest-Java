@@ -1,7 +1,9 @@
-giclass Program1{
-public static void main(String[] args){
+class Program1{
+public static void main(String[] args)
+{
     int num=1;
-    switch(num){
+    switch(num)
+    {
     case 1:
         System.out.println("1");
         break;
@@ -23,3 +25,4 @@ public static void main(String[] args){
         }
     }
 }
+
